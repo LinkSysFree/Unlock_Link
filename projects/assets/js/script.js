@@ -61,8 +61,8 @@ function openAldousToStarStreamTodo(){
   window.location.href = "https://LinkSysFree.github.io/AldousToStarStream/";
 }
 
-function openUltraAOTMap(){
-  window.location.href = "https://LinkSysFree.github.io/UltraAOTMap/";
+function openUltraLOLMap(){
+  window.location.href = "https://LinkSysFree.github.io/UltraLOLMap/";
 }
 
 //subscribe
