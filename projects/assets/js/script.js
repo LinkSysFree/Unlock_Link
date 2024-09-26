@@ -58,7 +58,7 @@ function openSunToNarutoTodo(){
 }
 
 function openAldousToStarStreamTodo(){
-  window.location.href = "https://LinkSysFree.github.io/AldousToStarStream/";
+  window.location.href = "https://LinkSysFree.github.io/AldousXStarStream/";
 }
 
 function openUltraLOLMap(){
