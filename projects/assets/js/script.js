@@ -38,7 +38,7 @@ function openPaquitoToKOFTodo(){
 }
 
 function openYinXErenTodo(){
-  window.location.href = "https://LinkSysFree.github.io/YinToEren/";
+  window.location.href = "https://LinkSysFree.github.io/YinXEren/";
 }
 
 function openMartisXLeviTodo(){
