@@ -42,7 +42,7 @@ function openYinXErenTodo(){
 }
 
 function openMartisXLeviTodo(){
-  window.location.href = "https://LinkSysFree.github.io/MartisToLevi/";
+  window.location.href = "https://LinkSysFree.github.io/MartisSpXLevi/";
 }
 
 function openChouToIoriTodo(){
