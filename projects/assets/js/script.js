@@ -65,6 +65,10 @@ function openUltraLOLMap(){
   window.location.href = "https://LinkSysFree.github.io/UltraLOLMap/";
 }
 
+function openXavierXGojo(){
+  window.location.href = "https://LinkSysFree.github.io/XavierXGojo/";
+}
+
 //subscribe
 function subscribe() {
   window.open('https://www.youtube.com/@dream_mlbb');
