@@ -50,7 +50,7 @@ function openChouToIoriTodo(){
 }
 
 function openLanceToZenitsuTodo(){
-  window.location.href = "https://LinkSysFree.github.io/LanceToZenitsu/";
+  window.location.href = "https://LinkSysFree.github.io/LancelotXZenitsu/";
 }
 
 function openSunToNarutoTodo(){
