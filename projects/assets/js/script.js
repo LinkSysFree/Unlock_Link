@@ -54,7 +54,7 @@ function openLanceToZenitsuTodo(){
 }
 
 function openSunToNarutoTodo(){
-  window.location.href = "https://LinkSysFree.github.io/SunToNaruto/";
+  window.location.href = "https://LinkSysFree.github.io/SunXNaruto/";
 }
 
 function openAldousToStarStreamTodo(){
